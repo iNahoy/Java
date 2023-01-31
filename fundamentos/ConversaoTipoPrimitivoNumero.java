@@ -8,7 +8,7 @@ public class ConversaoTipoPrimitivoNumero {
 		float b = (float) 1.123456789999; // Conversão Explícita (CAST)
 		System.out.println(b);
 		
-		int c = 360; 					  // Conversão Explícita (CAST)
+		int c = 360; 			  // Conversão Explícita (CAST)
 		byte d = (byte) c;
 		System.out.println(d);
 	}
