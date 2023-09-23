@@ -6,6 +6,5 @@ public class PrimitivoVSObjeto {
 		s.toUpperCase();
 		System.out.println(s);
 		// Wrappers - objeto tipo primitivo
-		
 	}
 }

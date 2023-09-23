@@ -18,8 +18,11 @@ public class Wrapper {
 		System.out.println(l * 3);
 		entrada.close();
 		
-		Boolean bo = Boolean.parseBoolean("true");
-		System.out.println(bo.toString().toUpperCase());
+		Boolean bt = Boolean.parseBoolean("true");
+		System.out.println(bt.toString().toUpperCase());
+		
+		Boolean bf = Boolean.parseBoolean("false");
+		System.out.println(bf.toString().toUpperCase());
 		
 		Character ca = '$';
 		System.out.println(ca + "...");
